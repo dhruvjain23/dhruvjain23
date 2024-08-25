@@ -1,11 +1,11 @@
 ![MasterHead](https://png.pngtree.com/template/20220505/ourmid/pngtree-programming-and-coding-banner-working-image_1312497.jpg)
 <h1 align="center">Hi 👋, I'm Dhruv Jain</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate MERN Stack developer from India</h3>
 <img align="right" alt="Error Always" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvjain23&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvjain23" /> </p>
 
-- 🌱 I’m currently learning **React , NodeJS**
+- 🌱 I’m currently learning **React Native , Java**
 
 - 💬 Ask me about **MERN , WEV DEV**
 
