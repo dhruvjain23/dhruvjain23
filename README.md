@@ -1,6 +1,6 @@
 ![MasterHead](https://www.synergisticit.com/wp-content/uploads/2021/10/Jacksonville-Banner-mern-stack-training.jpg)
 <h1 align="center">Hi 👋, I'm Dhruv Jain</h1>
-<h3 align="center">A passionate MERN Stack developer from India</h3>
+<h3 align="center">A driven MERN Stack developer from India, blending creativity with technical expertise.</h3>
 <img align="right" alt="Error Always" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvjain23&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvjain23" /> </p>
